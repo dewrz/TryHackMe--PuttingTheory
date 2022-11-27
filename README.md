@@ -36,3 +36,32 @@ Answer: PC01.example.corp <br>
 <br>
 <a href="https://imgur.com/M1cMOUh"><img src="https://i.imgur.com/M1cMOUh.png" title="source: imgur.com" /></a><br>
 <br>
+<b>Scenario 3:</b><br>
+<br>
+<b>Question 5:</b><br>
+<br>
+5. What is the name of the first variable within the PowerShell command?<br>
+<br>
+Answer: $Va5w3n8 <br>
+<br>
+<b>Question 6:</b><br>
+<br>
+6. What is the Date and Time this attack took place? (MM/DD/YYYY H:MM:SS [AM/PM])<br>
+<br>
+Answer: 8/25/2020 10:09:28 PM  ## For this answer you just switch from the XML details to General details in the Event Viewer.<br>
+<br>
+<a href="https://imgur.com/u0wsOv0"><img src="https://i.imgur.com/u0wsOv0.png" title="source: imgur.com" /></a><br>
+<br>
+<b>Question 7:</b><br>
+<br>
+7. What is the process ID?<br>
+<br>
+Answer: 6620<br>
+<br>
+<b>Scenario 4:</b><br>
+<br>
+<b>Question 8:</b><br>
+<br>
+8. What is the Group Security ID of the group she enumerated?<br>
+9. <br>
+10. Answer: S-1-5-32-544   ##First you had to search for the event ID to discover the SID.
