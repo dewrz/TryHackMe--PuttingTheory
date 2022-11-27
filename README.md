@@ -63,5 +63,5 @@ Answer: 6620<br>
 <b>Question 8:</b><br>
 <br>
 8. What is the Group Security ID of the group she enumerated?<br>
-9. <br>
-10. Answer: S-1-5-32-544   ##First you had to search for the event ID to discover the SID.
+<br>
+Answer: S-1-5-32-544   ##First you had to search for the event ID to discover the SID.
