@@ -18,3 +18,21 @@ Answer: 400<br>
 Answer: 12/18/2020 7:50:33 AM<br>
 <br>
 <a href="https://imgur.com/lHg82nc"><img src="https://i.imgur.com/lHg82nc.jpg" title="source: imgur.com" /></a>
+<br>
+<b>Scenario 2</b><br>
+The Security Team is using Event Logs more. They want to ensure they can monitor if event logs are cleared. You assigned a colleague to execute this action.<br>
+<br>
+<b>Question 3:</b><br>
+<br>
+3. A Log clear event was recorded. What is the 'Event Record ID'?<br>
+<br>
+Answer: 27736<br>
+<br>
+<b>Question 4:</b><br>
+<br>
+4. What is the name of the computer?<br>
+<br>
+Answer: PC01.example.corp <br>
+<br>
+<a href="https://imgur.com/M1cMOUh"><img src="https://i.imgur.com/M1cMOUh.png" title="source: imgur.com" /></a><br>
+<br>
